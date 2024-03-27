@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="lib">
+    <archive path="C:/Program Files/Java/jdk1.8.0_271/lib/dt.jar" />
+    <archive path="C:/Program Files/Java/jdk1.8.0_271/lib/tools.jar" />
+    <archive path="C:/Program Files/Java/jdk1.8.0_271/lib/sa-jdi.jar" />
+    <archive path="C:/Program Files/Java/jdk1.8.0_271/lib/jconsole.jar" />
+    <archive path="C:/Program Files/Java/jdk1.8.0_271/lib/packager.jar" />
+    <archive path="C:/Program Files/Java/jdk1.8.0_271/lib/javafx-mx.jar" />
+    <archive path="C:/Program Files/Java/jdk1.8.0_271/lib/ant-javafx.jar" />
+  </library>
+</eclipse-userlibraries>
+
